@@ -21,3 +21,4 @@ coverage/
 *.log
 __pycache__/
 *.py[cod]
+.tmp/
